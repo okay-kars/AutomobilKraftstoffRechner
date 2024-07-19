@@ -1,16 +1,11 @@
-# SmartCar Management System
+# Fuel Consumption Calculator
 
 ## Projektbeschreibung
-**SmartCar Management System** ist ein Verwaltungssystem, das verschiedene Funktionen und Eigenschaften eines Autos simuliert. Benutzer können die Geschwindigkeit, den Kraftstoffstand und den Motorzustand des Autos verwalten. Außerdem können sie die Wartungszeiten des Autos verfolgen und bestimmte Funktionen ausführen.
+**Fuel Consumption Calculator** ist ein Programm zur Berechnung des Kraftstoffverbrauchs eines Fahrzeugs. Benutzer können die zurückgelegte Strecke und den verbrauchten Kraftstoff eingeben, um den durchschnittlichen Kraftstoffverbrauch zu berechnen.
 
 ## Funktionen
-- **Autoinformationen:**
-  - Marke, Modell, Baujahr und andere grundlegende Informationen.
-- **Geschwindigkeitsverwaltung:**
-  - Erhöhen, Verringern und Stoppen der Geschwindigkeit des Autos.
-- **Kraftstoffverwaltung:**
-  - Überwachung des Kraftstoffstands und Hinzufügen von Kraftstoff.
-- **Motorzustand:**
-  - Starten und Stoppen des Motors.
-- **Wartungsverfolgung:**
-  - Überwachung der Wartungszeiten des Autos und Wartungserinnerungen.
+- **Berechnung des Kraftstoffverbrauchs:**
+  - Eingabe der zurückgelegten Strecke (in Kilometern).
+  - Eingabe des verbrauchten Kraftstoffs (in Litern).
+  - Berechnung des durchschnittlichen Verbrauchs (in Litern pro 100 Kilometer).
+
